@@ -5,7 +5,7 @@
 * Testing the features and functions of telecommunication products, including: SASN, GGSN, EPG, SGSN-MME, SSR and IPOS 
 * Consulting with Ericsson customers and assessing the technical and formal requirements 
 * Developing hardware-and software CPI, including: API documentation, user manuals, installation- and troubleshooting guides
-* Mastering the Ericsson Customer Style Manual
+* Mastering the Ericsson Corporate Style Manual
 * Reviewing and editing documents of fellow writers
 * Maintaining CPI libraries of legacy systems
 * Resolving support tickets
